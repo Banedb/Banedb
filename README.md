@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bane!</a></h1>
 <h2 align="center">Full-stack Web Developer + Software Engineer + Systems Analyst.</h2>
 <p>🪟 I’m interested in learning new skills.</p>
-<p>🧑‍💻 I’m currently learning Full Stack Software Engineer @ [ALX](https://www.alxafrica.com/).</p>
+<p>🧑‍💻 I’m currently learning Full Stack Software Engineer with <a href="https://www.alxafrica.com/" target="_blank" rel="noreferrer">ALX</a></p>
 
 ## 🌜Little More About Me:
 <p>
