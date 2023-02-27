@@ -4,7 +4,7 @@
 
 
 
-<p align="center"> <img alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/> </p>
+
 
 
 
@@ -42,7 +42,8 @@ More importantly, I'm good at what I do. I bring dedication, thoroughness and gr
   </p>
 
 ## Find me on:
-[![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://uk.linkedin.com/in/praveentech/) 
+[![LinkedIn]]
+ 
 
 
 
