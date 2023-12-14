@@ -18,4 +18,4 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="35"/> </a>
-<a href="https://en.wikipedia.org/wiki/Brainfuck"><img title="Brainfuck" align="left" height="25" src="https://d4.alternativeto.net/pbh1p3QeIrzAgzr_yUT3ZMXbyGUd6wsNz2R9BqZ7JtI/rs:fill:140:140:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9icmFpbmZ1Y2tfMTE2MTExLnBuZw.png"></a>
+<a href="https://en.wikipedia.org/wiki/Brainfuck"><img title="Brainfuck" target="_blank" width="40" height="40" src="https://d4.alternativeto.net/pbh1p3QeIrzAgzr_yUT3ZMXbyGUd6wsNz2R9BqZ7JtI/rs:fill:140:140:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9icmFpbmZ1Y2tfMTE2MTExLnBuZw.png"></a>
