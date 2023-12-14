@@ -6,7 +6,6 @@
 ## 🌜Little More About Me:
 <p>
 🤔 I love challenges. The tougher they are, the more I learn.</p>
-<p>📚 I'm in the final year of an LLB programme.</p>
 <p>🪵 I bring dedication, thoroughness and grit to any team I'm part of.</p>
 <p>✍️ I'm good at what I do.
  </p>
